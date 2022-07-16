@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+text.txt
+/log
